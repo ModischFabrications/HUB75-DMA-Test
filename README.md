@@ -4,7 +4,7 @@ This is a quick test sketch for [ESP32-HUB75-MatrixPanel-I2S-DMA](https://github
 
 Open using PlatformIO. Look it up and use it, it's a huge improvement over the basic Arduino IDE. 
 
-I bought [this panel](https://www.aliexpress.com/item/32810362851.html) and [this ESP(ESP32-CH9102X)](https://www.aliexpress.com/item/32959541446.html), everything seems to work fine. Manual wiring is a nightmare though, get a wiring PCB asap. 
+I bought [this 64x32 panel](https://www.aliexpress.com/item/32810362851.html) and [this ESP32 (ESP32-CH9102X)](https://www.aliexpress.com/item/32959541446.html) closely researching specifications. As of now everything seems to work fine. Manual wiring is a nightmare though, get a wiring PCB asap. 
 
 ## Inspirations
 - Examples from the library, notably [PIO Patterns](https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA/tree/master/examples/PIO_TestPatterns) and [Simple Pattern check](https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA/tree/master/examples/1_SimpleTestShapes)
